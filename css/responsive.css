@@ -49,6 +49,9 @@
   .banner{
     height: 150px;
   }
+  .banner img{
+    display: none;
+  }
   .hamburger span{
     display: block;
   }

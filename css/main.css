@@ -156,7 +156,7 @@ footer h4 {
   display: none;
   width: 25px;
   height: 3px;
-  background-color: #000;
+  background-color: #333;
   border-radius: 2px;
   margin: 6px;
 }
