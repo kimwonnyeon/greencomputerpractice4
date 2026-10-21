@@ -1,0 +1,11 @@
+
+@media (max-width:786px){
+.card-list{
+    grid-template-columns: repeat(2,1fr);
+}
+}
+@media (max-width: 480px){
+    .card-list{
+        grid-template-columns: 1fr;
+    }
+}
