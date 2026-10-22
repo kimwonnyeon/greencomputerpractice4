@@ -80,12 +80,8 @@ ul {
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
   background-color: #fff;
   text-align: center;
-  padding: 12px;
-  padding:0 10px;
+  padding:10px 10px;
   display: none;
-}
-ul li:first-child{
-  padding-top: 10px;
 }
 ul.active{
   display: block;
@@ -93,6 +89,9 @@ ul.active{
 ul li {
   height: 42px;
   margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 /* hero */
 .hero {

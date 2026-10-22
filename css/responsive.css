@@ -69,16 +69,20 @@
   }
   .banner {
     position: relative;
-    height: 150px;
+    height: auto;
     flex-direction: column;
     gap: 5px;
-    padding: 32px 20px;
+    padding: 30px 20px;
   }
   .banner .content {
     width: 100%;
     min-width: 0;
     text-align: center;
     box-sizing: border-box;
+  }
+  .banner p{
+    line-height: 1.6;
+    margin-bottom: 20px;
   }
   .hamburger {
     display: flex;
