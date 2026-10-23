@@ -40,7 +40,7 @@
   button {
     font-size: 13px;
   }
-  nav a {
+  #nav a {
     display: none;
   }
   .hero h1 {
@@ -91,5 +91,8 @@
     position: absolute;
     bottom: 10px;
     right: 15px;
+  }
+  footer{
+    font-size: 12px;
   }
 }
