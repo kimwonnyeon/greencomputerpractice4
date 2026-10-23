@@ -71,9 +71,9 @@
     font-size: 11px;
   }
   .banner {
-    position: relative;
     height: auto;
     gap: 10px;
+    flex-direction: column;
     justify-content: flex-start;
     padding: 30px 20px;
   }
@@ -91,11 +91,13 @@
     display: flex;
   }
   .banner button {
-    position: absolute;
     bottom: 10px;
-    left: 145px;
+
   }
   footer {
-    font-size: 12px;
+    font-size: 13px;
+  }
+  footer h4{
+    font-size: 14px;
   }
 }
