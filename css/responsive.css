@@ -70,8 +70,8 @@
   .banner {
     position: relative;
     height: auto;
-    flex-direction: column;
-    gap: 5px;
+    gap: 50px;
+    justify-content: flex-start;
     padding: 30px 20px;
   }
   .banner .content {
