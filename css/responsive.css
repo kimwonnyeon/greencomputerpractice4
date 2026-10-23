@@ -44,7 +44,7 @@
     display: none;
   }
   .hero h1 {
-    font-size:  28px;
+    font-size: 28px;
   }
   .top {
     font-size: 13px;
@@ -52,7 +52,7 @@
   .hero-text2 {
     font-size: 14px;
   }
-  .hero .imageSwiper{
+  .hero .imageSwiper {
     display: none;
   }
   .card h3 {
@@ -83,7 +83,7 @@
     text-align: center;
     box-sizing: border-box;
   }
-  .banner p{
+  .banner p {
     line-height: 1.6;
     margin-bottom: 20px;
   }
@@ -95,7 +95,7 @@
     bottom: 10px;
     left: 145px;
   }
-  footer{
+  footer {
     font-size: 12px;
   }
 }
