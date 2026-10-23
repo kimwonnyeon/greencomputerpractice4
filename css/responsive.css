@@ -70,7 +70,7 @@
   .banner {
     position: relative;
     height: auto;
-    gap: 50px;
+    gap: 10px;
     justify-content: flex-start;
     padding: 30px 20px;
   }
@@ -90,7 +90,7 @@
   .banner button {
     position: absolute;
     bottom: 10px;
-    right: 15px;
+    left: 145px;
   }
   footer{
     font-size: 12px;
